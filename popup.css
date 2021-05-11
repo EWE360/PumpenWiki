@@ -32,3 +32,23 @@ body {
     border: 2px solid rgb(219, 212, 212);
     border-radius: 50%;
 }
+
+.close {
+    position: absolute;
+    top: 7px;
+    left: 7px;
+    width: 18px;
+}
+
+h1 {
+    margin-bottom: 10px;
+    font-family: var(--characterBar-font);
+    font-size: 25px;
+    color: #005ea8;
+}
+
+p {
+    font-family: var(--main-font);
+    font-size: 11px;
+    color: #565859;
+}
