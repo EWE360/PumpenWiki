@@ -65,6 +65,7 @@ hr {
     height: 120vh;
     font-family: var(--main-font);
     font-size: 11px;
+
 }
 
 /* .category {
@@ -86,4 +87,10 @@ hr {
 .content {
     margin-bottom: 2px;
     background: #dddede;
+}
+
+.active {
+    font-size: 18px;
+    font-weight: bold;
+    color: blue;
 }

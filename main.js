@@ -1,25 +1,59 @@
 const character = document.querySelector('.filter');
-
+const input = document.querySelector('.search');
 const filterContent = ["3", "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"];
+let letter;
+
 filterContent.map((item, index)=>{
     const span = document.createElement("span");
     span.textContent = item;
     span.classList.add('button');
-    if (index === 0) {
-        span.classList.add('is-checked');
-    }
+    span.addEventListener('click', selectItem);
+    // if (index === 0) {
+    //     span.classList.add('active');
+    // }
     character.appendChild(span);
-})
+});
 
-// const elem = document.querySelector('.grid');
-// var iso = new Isotope( elem, {
-//   // options
-//   itemSelector: '.category',
-//   layoutMode: 'fitRows'
-// });
+input.addEventListener('click', showAll);
 
-// // element argument can be a selector string
-// //   for an individual element
-// var iso = new Isotope( '.grid', {
-//   // options
-// });
+function showAll(){
+    const span = document.querySelectorAll('.filter .button');
+    span.forEach(element => {
+        element.classList.remove("active");
+    });
+    $grid.isotope({ filter: '*' })
+}
+
+function handleClassNames(element){
+    const span = document.querySelectorAll('.filter .button');
+    span.forEach(element => {
+        element.classList.remove("active");
+    });
+    element.classList.add('active')
+    console.log(element);
+}
+
+function selectItem(event){
+    const target = event.target.textContent;
+
+    handleClassNames(event.target);
+    letter = ".cat-" + target.toLowerCase();
+    $grid.isotope({ filter: letter })
+
+}
+
+var $grid = $('.grid').isotope({
+    itemSelector: '.category',
+    layoutMode: 'fitRows',
+    // getSortData: {
+    //   name: '.name',
+    //   symbol: '.symbol',
+    //   number: '.number parseInt',
+    //   category: '[data-category]',
+    //   weight: function( itemElem ) {
+    //     var weight = $( itemElem ).find('.weight').text();
+    //     return parseFloat( weight.replace( /[\(\)]/g, '') );
+    //   }
+    // }
+  });
+

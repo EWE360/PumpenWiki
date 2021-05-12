@@ -8,6 +8,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet"> 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" defer></script>
+    <script src="node_modules/isotope-layout/dist/isotope.pkgd.min.js" defer></script>
     <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js" defer></script>
     <script src="main.js" defer></script>
     <title>Pumpen Kompendium</title>
@@ -19,7 +20,7 @@
         </div>
         <hr>
         <div class="grid">
-            <div class="category cat-3">
+            <div class="category cat-3" data-category="3">
                 <div class="title">
                     3
                 </div>
@@ -30,7 +31,7 @@
                     3-A Zertifikat
                 </div>
             </div>
-            <div class="category cat-a">
+            <div class="category cat-a" data-category="a">
                 <div class="title">
                     A
                 </div>
@@ -50,7 +51,7 @@
                     Axiale Förderung
                 </div>
             </div>
-            <div class="category cat-b">
+            <div class="category cat-b" data-category="b">
                 <div class="title">
                     B
                 </div>
@@ -67,7 +68,7 @@
                     Bypass
                 </div>
             </div>
-            <div class="category cat-c">
+            <div class="category cat-c" data-category="c">
                 <div class="title">
                     C
                 </div>
@@ -78,7 +79,7 @@
                     CIP-Reinigung
                 </div>
             </div>
-            <div class="category cat-d">
+            <div class="category cat-d" data-category="d">
                 <div class="title">
                     D
                 </div>
@@ -116,7 +117,7 @@
                     Druckstoß
                 </div>
             </div>
-            <div class="category cat-e">
+            <div class="category cat-e" data-category="e">
                 <div class="title">
                     E
                 </div>
@@ -142,7 +143,7 @@
                     Exzenterschneckenpumpe
                 </div>
             </div>
-            <div class="category cat-f">
+            <div class="category cat-f" data-category="f">
                 <div class="title">
                     F
                 </div>
@@ -180,7 +181,7 @@
                     Formschluss
                 </div>
             </div>
-            <div class="category cat-g">
+            <div class="category cat-g" data-category="g">
                 <div class="title">
                     G
                 </div>
@@ -191,7 +192,7 @@
                     Gussbauteile
                 </div>
             </div>
-            <div class="category cat-h">
+            <div class="category cat-h" data-category="h">
                 <div class="title">
                     H
                 </div>
@@ -214,30 +215,7 @@
                     Hygienic Design
                 </div>
             </div>
-            <div class="category cat-h">
-                <div class="title">
-                    H
-                </div>
-                <div class="content">
-                    Hastelloy
-                </div>
-                <div class="content">
-                    Hochdruckanwendung
-                </div>
-                <div class="content">
-                    HYGHSPIN
-                </div>
-                <div class="content">
-                    HYGHSPIN Hopper
-                </div>
-                <div class="content">
-                    HNBR
-                </div>
-                <div class="content">
-                    Hygienic Design
-                </div>
-            </div>
-            <div class="category cat-i">
+            <div class="category cat-i" data-category="i">
                 <div class="title">
                     I
                 </div>
@@ -245,7 +223,7 @@
                     Inline-Ausführung
                 </div>
             </div>
-            <div class="category cat-k">
+            <div class="category cat-k" data-category="k">
                 <div class="title">
                     K
                 </div>
@@ -265,7 +243,7 @@
                     Kupplung
                 </div>
             </div>
-            <div class="category cat-l">
+            <div class="category cat-l" data-category="l">
                 <div class="title">
                     L
                 </div>
@@ -279,7 +257,7 @@
                     Lunker
                 </div>
             </div>
-            <div class="category cat-m">
+            <div class="category cat-m" data-category="m">
                 <div class="title">
                     M
                 </div>
@@ -305,7 +283,7 @@
                     Multiphasenförderung
                 </div>
             </div>
-            <div class="category cat-n">
+            <div class="category cat-n" data-category="n">
                 <div class="title">
                     N
                 </div>
@@ -313,7 +291,7 @@
                     NPSH-Wert
                 </div>
             </div>
-            <div class="category cat-p">
+            <div class="category cat-p" data-category="p">
                 <div class="title">
                     P
                 </div>
@@ -336,7 +314,7 @@
                     Pumpraum
                 </div>
             </div>
-            <div class="category cat-r">
+            <div class="category cat-r" data-category="r">
                 <div class="title">
                     R
                 </div>
@@ -347,7 +325,7 @@
                     Rotierende Förderung
                 </div>
             </div>
-            <div class="category cat-s">
+            <div class="category cat-s" data-category="s">
                 <div class="title">
                     S
                 </div>
@@ -385,7 +363,7 @@
                     Standzeit
                 </div>
             </div>
-            <div class="category cat-t">
+            <div class="category cat-t" data-category="t">
                 <div class="title">
                     T
                 </div>
@@ -402,7 +380,7 @@
                     Turbulenzen
                 </div>
             </div>
-            <div class="category cat-v">
+            <div class="category cat-v" data-category="v">
                 <div class="title">
                     V
                 </div>
@@ -428,7 +406,7 @@
                     Volumetrischer Wirkungsgrad
                 </div>
             </div>
-            <div class="category cat-w">
+            <div class="category cat-w" data-category="w">
                 <div class="title">
                     W
                 </div>
@@ -448,7 +426,7 @@
                     Wirkungsgrad
                 </div>
             </div>
-            <div class="category cat-z">
+            <div class="category cat-z" data-category="z">
                 <div class="title">
                     Z
                 </div>
