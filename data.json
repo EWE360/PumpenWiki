@@ -1,0 +1,527 @@
+ [
+    {
+     "keyword":"3-in-1-Lösung",
+     "description":"3-in-1 beschreibt eine Technologie, bei der Zuführung, Förderung und Reinigung in einer einzigen Komponente erfolgen, mehr dazu unter HYGHSPIN Hopper. Diese Technologie kommt bei Produkten mit einer hohen Viskosität zum Einsatz.",
+     "image":""
+    },
+    {
+    "keyword":"3-A Zertifikat",
+    "description":"Das 3-A Zertifikat wird von der amerikanischen 3-A Sanitary Standards, Inc. (3-A SSI) vergeben. Es bewertet die Konstruktion von Pumpen und anderem Equipment nach den Kriterien des Hygienic Design. 3-A ist das wichtigste Zertifikat für die US-amerikanische Lebensmittelbranche. HYGHSPIN Schraubenspindelpumpen sind 3-A zertifiziert. Zudem liegt eine EHEDG-Zertifizierung vor. Außerdem können sie gemäß der ATEX Richtlinie ausgeführt werden.",
+    "image":""
+    },
+    {
+    "keyword":"Abrasive Medien",
+    "description":"Unter abrasiven Medien versteht man Stoffe mit einer schleifenden, abreibenden Wirkung wie Kristalle oder Fruchtkerne. Sie beanspruchen die Pumpe besonders stark. Teilweise sind die abrasiven Inhalthaltstoffe nur sehr klein und schwer zu erkennen oder zu spüren. Ein Beispiel für das Vorliegen solcher Mikropartikel ist Zahnpasta. Durch Diffusionshärtung der medienberührenden Teile kann die Verschleißfestigkeit deutlich erhöht werden.",
+    "image":""
+    },
+    {
+    "keyword":"Anlagenlayout",
+    "description":"Das Anlagenlayout beschreibt die konstruktive Ausführung und die Funktion einer Anlage. Jung Process Systems verfügt über eine eigene Konstruktionsabteilung und erstellt ein individuelles Kundenkonzept für die optimale Pumpenlösung zu einer spezifischen Anwendung. Dabei werden u.a. folgende Fragen berücksichtigt: Produktbeschaffenheit? Viskositätsbereich? Häufiger Produktwechsel? Hygieneanspruch? Besondere Anforderungen? Erforderliches Produktionsvolumen? CIP / SIP integriert? Vorhandene Rohrleitungen? Bauhöhen und räumliche Gegebenheiten? Mobiler Einsatz?",
+    "image":""
+    },
+    {
+    "keyword":"ATEX",
+    "description":"Die Abkürzung des französischen ATmosphères EXplosibles bezeichnet eine Richtlinie zum Explosionsschutz. In der Europäischen Union dürfen in explosionsgefährdeten Bereichen nur solche Geräte, Komponenten und Schutzsysteme eingesetzt werden, die gemäß ATEX ausgeführt sind. Alle HYGHSPIN Schraubenspindelpumpen können bei Bedarf gemäß den ATEX Richtlinien hergestellt werden.",
+    "image":""
+    },
+    {
+    "keyword":"Austrittsstutzen",
+    "description":"Bauteil, an dem das Medium die Pumpe verlässt.",
+    "image":""
+    },
+    {
+    "keyword":"Axiale Förderung",
+    "description":"Bei der axialen Förderung wird das Medium in Längsrichtung durch die Pumpe geschoben. In einer HYGHSPIN Schraubenspindelpumpe erfolgt dies kontaktlos durch zwei gegenläufigen Spindeln. Da das Medium hierbei nicht geschleudert wird, wie bei anderen Verdrängerpumpentypen, ist die axiale Förderung besonders produktschonend und eignet sich beispielsweise zum Verpumpen empfindlicher Fruchtstücke. Gleichzeitig bewahrt die kontaktlose axiale Förderung vor Materialabrieb. Damit wird sowohl das Eindringen von Materialabrieb ins Produkt, (Kontamination), als auch ein vorzeitiger Verschleiß der Förderschrauben verhindert.",
+    "image":""
+    },
+    {
+    "keyword":"Betriebsbereich",
+    "description":"Der Betriebsbereich einer Pumpe gibt Aufschluss über die förderbaren Volumenströme, Drücke (>Dampfdruck) und Temperaturen (>Fördertemperaturen). Je größer der Betriebsbereich, desto flexibler ist die Pumpe. Schraubenspindelpumpen verfügen aufgrund des großen Drehzahlbereichs über einen sehr großen Betriebsbereich. Sie lassen sich daher für eine große Bandbreite verschiedener Medien unterschiedlicher Viskositäten einsetzen. HYGHSPIN Schraubenspindelpumpen fördern wegen des großen Betriebsbereiches auch niedrig viskose Reinigungsflüssigkeiten wie Wasser. Sie sind deshalb ohne zusätzliche Bypässe für CIP- und SIP-Prozesse einsetzbar.",
+    "image":""
+    },
+    {
+    "keyword":"Betriebssicherheit",
+    "description":"Die Betriebssicherheit beschreibt das Risiko von Ausfällen. Zur Betriebssicherheit trägt bei den HYGHSPIN Schraubenspindelpumpen u.a. die einzigartige Blockbauweise bei. Hierbei sind Pumpe und Motorwelle durch Formschluss zueinander zentriert. So sind Folgeschäden durch nicht ausgerichtete oder verspannte Kupplungen ausgeschlossen. Ein weiteres Merkmal der Betriebssicherheit ist eine trockenlaufsichere Ausführung.",
+    "image":""
+    },
+    {
+    "keyword":"Blockbauweise",
+    "description":"HYGHSPIN Schraubenspindelpumpen werden in der Regel in robuster, kompakter Blockbauweise angeboten. Pumpe und Motorwelle sind durch Formschluss zueinander zentriert. Dies verhindert, dass bei ungünstiger Aufstellung, z.B. bei mobilen Pumpen, Probleme durch nicht ausgerichtete oder verspannte Kupplungen entstehen. Zudem ist der Platzbedarf geringer und die Pumpen sind von außen einfacher zu reinigen. Schmutzansammlungen unterhalb eines Berührungsschutzes oder einer großen Grundplatte werden vermieden. <br>Alternativ sind HYGHSPIN Schraubenspindelpumpen mit freiem Wellenende erhältlich.",
+    "image":""
+    },
+    {
+    "keyword":"Bypass",
+    "description":"Ein Bypass bezeichnet eine zusätzliche Hilfsleitung um die Pumpe. Diese Leitung dient meistens zur Rückführung eines Teilstroms von der Saugseite zur Druckseite der Pumpe, um Mengen oder Drücke zu regeln. Bei hygienischen Anwendungen werden Verdrängerpumpen oftmals mit einem Bypass versehen, um Reinigungsströme aufgrund eines begrenzten Volumenstrombereiches an den Pumpen vorbeiführen zu können. Für HYGHSPIN Schraubenspindelpumpen sind solche Bypässe nicht erforderlich. Aufgrund des außergewöhnlich großen Betriebsbereiches können Reinigungsströme von CIP- oder SIP-Prozessen komplett durch die Pumpe gefahren werden.",
+    "image":""
+    },
+    {
+    "keyword":"Cartridge-Bauweise",
+    "description":"Geschlossene Bauform einer Gleitringdichtung; alle Elemente sind in einem Bauteil integriert. Eine Cartridge-Bauweise vereinfacht die Montage und schließt Montagefehler aus. Diese Bauform wird auch als Patronenbauweise bezeichnet.",
+    "image":""
+    },
+    {
+    "keyword":"CIP-Reinigung",
+    "description":"CIP = Clean in Place; Reinigung der Anlage ohne Demontage und händische Reinigung von Komponenten. Alle HYGHSPIN Schraubenspindelpumpen sind für CIP-Prozesse geeignet. Aufgrund des hohen Betriebsbereiches ist ein Bypass in der Regel nicht erforderlich.",
+    "image":""
+    },
+    {
+    "keyword":"Dampfblasen",
+    "description":"Dampfblasen entstehen, wenn der lokale statische Druck unter den Verdampfungsdruck des Mediums sinkt. Dies kann bereits bei einer Temperatur um die 20 °C vorkommen. Die Dampfblasen gelangen innerhalb der Pumpe wieder in Bereiche mit höherem Druck und zerplatzen dort schlagartig. Dabei entstehen sogenannte Microjets, die die Komponenten lokal sehr stark belasten. Im Laufe der Zeit kommt es zu Beschädigungen und vorzeitigem Verschleiß der Pumpe. Das Auftreten von Dampfblasen in der Saugkammer einer Pumpe sollte mit einem entsprechenden Anlagenlayout und einem auf die Förderaufgaben abgestimmten NPSH-Wert unbedingt vermieden werden, da Dampfblasen die Hauptursache für Kavitation darstellen. Entscheidend ist die Dampfdruckkurve des Fördermediums.",
+    "image":""
+    },
+    {
+    "keyword":"Dampfdruck",
+    "description":"Unter Dampfdruck versteht man den absoluten Druck, bei dem das Fördermedium bei einer bestimmten Temperatur zu sieden oder zu verdampfen beginnt. In Pumpen sollte der Dampfdruck des Fördermediums an keiner Stelle erreicht oder gar überschritten werden. Der Druck am Eintritt der Pumpe muss höher als der Dampfdruck des Fördermediums sein, da sonst die Gefahr von Kavitation besteht. Zur Beurteilung der Situation dienen die NPSH-Werte.",
+    "image":""
+    },
+    {
+    "keyword":"Dampfdruckkurve",
+    "description":"Eine Dampfdruckkurve bezieht sich auf ein bestimmtes Fördermedium. Sie stellt den Verlauf des Dampfdruckes in Abhängigkeit von der Temperatur da. Mit steigenden Temperaturen steigt die Kurve an.",
+    "image":""
+    },
+    {
+    "keyword":"Differenzdruck",
+    "description":"Der Differenzdruck gibt bei Pumpen den Unterschied zwischen dem Ein- und dem Austrittsdruck an, also die Druckerhöhung, die die Pumpe leistet. Bei Kreiselpumpen wird üblicherweise eine Förderhöhe angegeben, aus der sich der Differenzdruck für das jeweilige Fördermedium errechnen lässt.",
+    "image":""
+    },
+    {
+    "keyword":"Diffusionshärtung",
+    "description":"Bei der Diffusionshärtung werden in einem – häufig mechanisch-thermischen – Prozess zusätzliche Elemente in die Edelstahloberfläche eingebracht („diffundiert“). Das führt zu Verspannungen des Gefüges in dieser Zone, so dass die Oberfläche härter und verschleißfester wird. Verfahrensdetails variieren von Hersteller zu Hersteller.",
+    "image":""
+    },
+    {
+    "keyword":"Doppelflutig",
+    "description":"Doppelflutige Schraubenspindelpumpen verfügen über zwei parallele Stufen, die zu einem zentralen Austrittsstutzen fördern. Sie eignen sich besonders für Hochdruckanwendungen, da die wesentlichen Bauteile trotz der hohen Differenzdrücke nur wenig belastet werden. <br><br> Mehr über die HYGHSPIN DOUBLE FLOW",
+    "image":""
+    },
+    {
+    "keyword":"Doppelspindel",
+    "description":"Die Doppelspindeln bilden das Herzstück der HYGHSPIN Schraubenspindelpumpen. Dank der beiden berührungslos gegeneinander laufenden Edelstahl-Spindeln wird das Medium axial schonend durch die Pumpe geschoben. Es wird nicht geschleudert oder anderen mechanischen Belastungen ausgesetzt, so dass sich diese Pumpentechnologie auch für empfindliche, beispielsweise stückige Produkte hervorragend eignet.",
+    "image":""
+    },
+    {
+    "keyword":"Double Flow",
+    "description":"Double Flow bezeichnet die Produktfamilie der doppelflutigen HYGHSPIN Schraubenspindelpumpen für besondere Hochdruckanwendungen. <br><br> Die Modelle dieser Baureihe verfügen über zwei außenliegende Eintrittsstutzen und einen zentralen Austrittsstutzen. Dank einer besonderen Konstruktion werden die bei dieser Bauart auftretenden hohen Differenzdrücke intern ausgeglichen, so dass die HYGHSPIN Double Flow eine hohe Zuverlässigkeit und exzellente Standzeiten bietet. Zudem lässt sich ein großer Volumenstrom fördern. Mehr über die HYGHSPIN Double Flow",
+    "image":""
+    },
+    {
+    "keyword":"Drehzahlbereich",
+    "description":"Der Drehzahlbereich gibt bei einer Pumpe an, wieviele Umdrehungen die Spindeln oder Rotoren innerhalb einer Zeiteinheit ausführen und ist ein wichtiges Leistungsmerkmal für den jeweiligen Pumpentyp. Je breiter der Drehzahlbereich, desto flexibler ist die Pumpe einsetzbar. So können Medien verschiedener Viskositäten mit der Pumpe gefördert werden.",
+    "image":""
+    },
+    {
+    "keyword":"Druckseite",
+    "description":"Die Druckseite ist die Stelle der Pumpe, an der das von der Saugseite kommende Medium in die Rohrleitung austritt, nachdem es in der Pumpenkammer durch die darin rotierenden Kolben oder Spindeln transportiert wurde.",
+    "image":""
+    },
+    {
+    "keyword":"Druckstoß",
+    "description":"Ein Druckstoß ist ein plötzlicher abrupter Anstieg des Druckes innerhalb einer Anlage, der zu Schäden an der Pumpe oder anderen Anlagenteilen führen kann. HYGHSPIN Schraubenspindelpumpen unterliegen keinen Schwankungen, sie arbeiten quasi pulsationsfrei, so dass keine Druckstöße in der Anlage entstehen.",
+    "image":""
+    },
+    {
+    "keyword":"Edelstahl",
+    "description":"Als Edelstahl werden Stähle mit einer hohen Korrosionsbeständigkeit bezeichnet. Edelstahl ist langlebig und wartungsarm und zählt daher zu den wichtigsten technischen Werkstoffen. Darüber hinaus lassen sich bei Werkstücken aus Edelstahl sehr glatte, beständige Oberflächen mit geringen Rauigkeiten erzeugen, so dass hohe Hygieneanforderungen erfüllt werden können. <br><br> Edelstähle sind Legierungen aus verschiedenen Metallen – überwiegend Eisen – und Kohlenstoff. Typische maßgebende Legierungsbestandteile sind Chrom, Nickel und Molybdän.<br> Der Werkstoff ist je nach Zusammensetzung in Gruppen eingeteilt. Traditionelle Bezeichnungen für häufig verwendete Legierungsgruppen sind V2A und V4A. Heute bezeichnet man die Edelstähle eher mit sogenannten Werkstoffnummern, weil diese genauere Auskunft über die jeweilige Zusammensetzung und die Eigenschaften des Edelstahls geben.<br><br>HYGHSPIN Schraubenspindelpumpen werden in der Regel aus Edelstahl mit der Werkstoffnummer 1.4404 gefertigt. Für spezielle Anforderungen können jedoch auch noch höherwertige Werkstoffe eingesetzt werden.<br><br>Neben der Güte des Werkstoffes ist besonders unter dem Hygiene-Aspekt auch entscheidend, wie der Edelstahl verarbeitet wird. Bauteile können entweder im Gussverfahren oder durch Spanen aus Vollmaterial hergestellt werden. Bei Gussteilen kann es durch Gaseinschluss zur Bildung von Lunkern kommen, die bei der späteren Bearbeitung in Verbindung mit mikrofeinen Rissen zu Keimnestern werden und zu Kontamination führen können. Um dies zu vermeiden, werden bei allen HYGHSPIN Schraubenspindelpumpen die Teile, die mit dem Medium in Berührung kommen, aus Edelstahl-Vollmaterial gespant. Dieses aufwändigere Fertigungsverfahren bietet ein Höchstmaß an Hygiene.<br>Weitere Informationen (> Edelstahlpumpen auf der Website)",
+    "image":""
+    },
+    {
+    "keyword":"EHEDG",
+    "description":"EHEDG ist die Abkürzung für die European Hygienic Engineering & Design Group. Diese Organisation hat ebenso wie die US-amerikanische 3-A Sanitary Standards die Verbesserung der Lebensmittelsicherheit zum Ziel. Mehr als 400 Experten aus der Lebensmittelindustrie, dem Maschinenbau und der Forschung entwickeln Leitlinien und geben praktische Anleitungen zur Umsetzung im Sinne des Hygienic Design. Über autorisierte Testlabore vergibt die EHEDG Zertifikate für geprüfte und den Anforderungen entsprechende Komponenten. <br><br> HYGHSPIN Schraubenspindelpumpen sind EHEDG-zertifiziert. Parallel liegt eine 3-A-Zertifizierung vor. Auch sind Ausführungen auf Basis der ATEX Richtlinie möglich.",
+    "image":""
+    },
+    {
+    "keyword":"Einlauftrichter",
+    "description":"Trichterförmige Öffnung für die Zuführung nicht-fließfähiger Produkte bei der HYGHSPIN Hopper. Hierdurch können Produkte mit einer Viskosität von bis zu 1.000 Pas problemlos gefördert werden. Verlängerte Förderschrauben ziehen dabei das Medium wie bei einem Extruder unterhalb des Einlauftrichters in den Pumpraum.",
+    "image":""
+    },
+    {
+    "keyword":"Eintrittsstutzen",
+    "description":"Anschlussöffnung auf der Saugseite",
+    "image":""
+    },
+    {
+    "keyword":"Elastomer",
+    "description":"Elastomere sind formfeste, elastische Kunststoffe, die beispielsweise für Dichtungen eingesetzt werden. <br>Die produktberührenden Elastomere in HYGHSPIN Schraubenspindelpumpen bestehen in der Regel aus HNBR-Elastomeren (HNBR = Hydrierter Acrylnitrilbutadien-Kautschuk), EPDM (Ethylen-Propylen-Dien-Kautschuk) oder FPM / FKM (Fluorkautschuk) und werden als leicht zu reinigende FDA-konforme Formringe ausgeführt.",
+    "image":""
+    },
+    {
+    "keyword":"Extruderfunktion",
+    "description":"Extrusion ist ein formgebendes Verfahren, bei der ein zähes Medium unter Druck durch eine Öffnung gepresst wird. Bei den HYGHSPIN Schraubenspindelpumpen der Baureihe Hopper bezeichnet Extruderfunktion die Zuführung von nicht-fließfähigen Produkten mittels verlängerter Förderschrauben.",
+    "image":""
+    },
+    {
+    "keyword":"Exzenterschneckenpumpe",
+    "description":"Exzenterschneckenpumpen gehören zur Gruppe der Verdrängerpumpen. Sie bestehen im Wesentlichen aus einem feststehenden Stator und einem Rotor, einer Art Schraube, die sich in Längsrichtung innerhalb des Stators dreht und so das Medium vorwärts schiebt. Dabei besteht Kontakt zwischen dem Stator und dem Rotor. Die Pumpen reagieren dadurch nur wenig auf wechselnde Viskositäten oder Gegendrücke. Durch den Kontakt ergibt sich aber auch ein definierter Verschleiß des Stators und somit eine kontinuierliche Produktkontamination. Zudem wird Trockenlauf nur sehr begrenzt toleriert.",
+    "image":""
+    },
+    {
+    "keyword":"FDA-Zulassung",
+    "description":"FDA steht für die Food and Drug Administration, die US-amerikanische Zulassungs- und Überwachungsbehörde für Lebensmittel, Medikamente und Medizinprodukte. Für Pumpen und andere Maschinen, die in den USA im Lebensmittel- oder Pharmaziebereich eingesetzt werden, gelten strenge Vorschriften, um die Kontamination von Lebensmitteln mit Fremdstoffen, beispielsweise durch Abrieb während der Verarbeitung, zu vermeiden. Alle produktberührenden Elastomere der HYGHSPIN Schraubenspindelpumpen sind daher FDA-konform und verfügen über entsprechende Zertifikate.",
+    "image":""
+    },
+    {
+    "keyword":"Feststoffgröße",
+    "description":"Die Feststoffgröße gibt an, wie groß ein einzelnes Partikel des Mediums ist. Sie ist ein wichtiges Merkmal für die Auswahl einer geeigneten Pumpe.",
+    "image":""
+    },
+    {
+    "keyword":"Flankenspiel",
+    "description":"Unter Flankenspiel (Nr. 47) versteht man den Abstand zwischen den jeweiligen „Zähnen“ der beiden gegeneinander laufenden Förderschrauben (Nr. 46) einer zweispindeligen Schraubenspindelpumpe. Dieser Abstand ist konstruktionsbedingt definiert und muss bei der Wartung und beim Austausch, beispielsweise von Wellendichtungen, kontrolliert werden. <br><br>Mangelnde Genauigkeit bei der Einstellung des Flankenspiels kann sich durch Festkörperkontakt zwischen den Förderschrauben negativ auf das Betriebsverhalten der Pumpe auswirken und beispielsweise zu Vibrationen, Beschädigungen oder Leistungsverlust führen.<br><br>Für die HYGHSPIN Schraubenspindelpumpen besteht eine patentierte Konstruktion (EP 2 634 366 A2), die den Wartungsaufwand erheblich senkt, indem das Flankenspiel wesentlich einfacher justiert werden kann. Durch eine Inspektionsöffnung lassen sich die Förderschrauben direkt in der Anlage ohne Demontage des Motors und des Getriebegehäuses ausrichten.",
+    "image":""
+    },
+    {
+    "keyword":"Fließfähigkeit",
+    "description":"Zähflüssigkeit eines Mediums, siehe Viskosität.",
+    "image":""
+    },
+    {
+    "keyword":"Fördergeschwindigkeit",
+    "description":"Die Fördergeschwindigkeit bezeichnet das Tempo, mit dem ein Medium durch die Pumpe transportiert wird. Bei niedrigen Fördergeschwindigkeiten können empfindliche Produkte sehr schonend bewegt werden, da es weder zu mechanischen (Schleudern) noch zu thermischen (Erwärmung) Veränderungen durch schnell rotierende Kolben oder Schnecken kommt. <br> Um bei niedrigen Fördergeschwindigkeiten eine hohe Leistung zu erzielen, muss das gesamte Anlagenlayout individuell entsprechend den Anforderungen ausgelegt werden.",
+    "image":""
+    },
+    {
+    "keyword":"Förderhöhe",
+    "description":"Förderhöhe ist ein vor allem bei Kreiselpumpen verwendeter Begriff. Die Förderhöhe gibt an, wie weit ein bestimmtes Medium unter Berücksichtigung verschiedener Faktoren wie Dichte des Fördermediums, nutzbare mechanische Arbeit und lokale Erdbeschleunigung gepumpt werden kann.",
+    "image":""
+    },
+    {
+    "keyword":"Fördermenge",
+    "description":"Mit Fördermenge wird angegeben, wie viel eines bestimmten Mediums in einer definierten Zeit mit der Pumpe transportiert werden kann bzw. werden soll. Sie ist von verschiedenen Faktoren wie Druck, Pumpenausführung und Viskosität des Mediums abhängig.",
+    "image":""
+    },
+    {
+    "keyword":"Förderschrauben",
+    "description":"Förderschrauben sind die Spindeln in einer Schraubenspindelpumpe. Bei HYGHSPIN Schraubenspindelpumpen werden die Spindeln aus Edelstahl gefertigt und müssen mit einem bestimmten Flankenspiel zueinander justiert werden. Die Pumpen sind dadurch in Verbindung mit einer geeigneten Wellendichtung trockenlaufsicher. Durch die Kontaktfreiheit wird auch eine Produktkontamination verhindert.",
+    "image":""
+    },
+    {
+    "keyword":"Fördertemperatur",
+    "description":"Die Fördertemperatur bezeichnet die Temperatur des zu fördernden Mediums. Mit steigender Fördertemperatur erhöhen sich die Ansprüche an die Pumpe, beispielsweise an die Gleichringdichtungen sowie bei hohen Temperaturen oder chemischen Substanzen auch an den Explosionsschutz (>ATEX).Die Fördertemperatur kann sich durch einen Pumpvorgang erhöhen und ist abhängig von Pumpenbauart und Betriebssituation.",
+    "image":""
+    },
+    {
+    "keyword":"Förderverhalten",
+    "description":"Unter Förderverhalten versteht man, wie sich eine Pumpe im laufenden Betrieb verhält, beispielsweise, ob die Pumpe pulsationsfrei arbeitet.",
+    "image":""
+    },
+    {
+    "keyword":"Formschluss",
+    "description":"Formschluss bezeichnet eine Verbindungstechnik, bei der sich die zusammengefügten Teile nicht gegeneinander verschieben können, weil sie durch die Geometrie der Bauteile (z.B. eine Einkerbung oder Verzahnung) daran gehindert werden.",
+    "image":""
+    },
+    {
+    "keyword":"Gleitringdichtung",
+    "description":"Gleitringdichtungen (GLRD) dienen in einer Pumpe dazu, die rotierende Welle gegenüber der Pumpkammer abzudichten. <br> Ein Gleitringpaar besteht im Wesentlichen aus einem Gleitring, einem Gegenring und einer Feder. Der Gleitring befindet sich am rotierenden Teil, der Gegenring am statischen. Beide Teile werden durch die Feder zusammengedrückt und laufen gegeneinander. Zwischen Gleitring und Gegenring befindet sich ein feiner Film aus dem jeweiligen Medium, um die Bewegung beider Teile gegeneinander zu ermöglichen. Würde dieser Gleitfilm zwischen Gleitring und Gegenring fehlen, würde die Gleitringdichtung trockenlaufen und könnte dadurch Schaden nehmen.<br><br>Standardmäßig werden häufig einfachwirkende GLRD verbaut, die aus einem Gleitringpaar bestehen. Für spezielle Anwendungen gibt es doppeltwirkende Gleitringdichtungen, die sich aus zwei Gleitringpaaren in Reihe zusammensetzen. Zwischen den Paaren befindet sich eine Spülkammer. Um auch auf der äußeren Seite die Ausbildung eines Gleitfilms sicherzustellen, ist diese Spülkammer mit einem Spül- oder Sperrmedium zu versorgen. Doppeltwirkende GLRD kommen bei toxischen, aggressiven oder explosiven Medien zur Anwendung, um eine direkte Leckage in die Umgebung zu verhindern. Bei hygienischen Anwendungen werden doppeltwirkende GLRD auch eingesetzt, um eine Trennung des Produktes zur Umgebung zu erzielen.<br><br>Medien mit einem hohen Zuckeranteil wie Sirupe benötigen eine Dichtungsausführung, die verhindert, dass die aufeinandertreffenden Flächen von Gleitring und Gegenring bei Stillstand der Pumpe verkleben. HYGHSPIN Schraubenspindelpumpen werden für solche Anwendungen alternativ mit kostengünstigen Lippendichtringen ausgerüstet, die auch ohne Spülung trockenlaufsicher sind.",
+    "image":""
+    },
+    {
+    "keyword":"Gussbauteile",
+    "description":"Bei Gussbauteilen wird die Form der Komponente maßgeblich durch Gießen des Werkstoffes aus der Flüssigphase erzielt. Die Bauteile werden anschließend mechanisch endgefertigt. Beim Gussbau besteht die Gefahr, dass kleine Luftbläschen – Lunker – im Material eingeschlossen werden. Bei der anschließenden Bearbeitung der Oberflächen kann es dann dazu kommen, dass diese Bläschen durch das Abschleifen und Polieren geöffnet werden und winzige Hohlräume bilden, in der sich Reste des Mediums ansammeln. Diese Verunreinigungen sind nur schwer zu erkennen und zu beseitigen. Sie führen daher leicht zur Kontamination des Produktes, was besonders in der Lebensmittel- und der Pharmaindustrie mit gesundheitlichen Gefahren verbunden sein kann.<br><br>Bei HYGHSPIN Schraubenspindelpumpen werden alle Bauteile, die mit dem Medium in Berührung kommen, aus Edelstahl-Vollmaterial gespant. Span für Span wird das Material von einem Edelstahlblock abgetragen, bis die gewünschte Form erreicht ist. Dieses Verfahren ist zwar aufwändiger, bietet jedoch auch ein höheres Hygieneniveau.",
+    "image":""
+    },
+    {
+    "keyword":"Hastelloy",
+    "description":"Hastelloy ist der Markenname für ein besonders widerstandsfähiges Edelstahlmaterial. Hastelloy wird beispielsweise bei Anwendungen mit besonders aggressiven chemischen Substanzen eingesetzt.",
+    "image":""
+    },
+    {
+    "keyword":"Hochdruckanwendung",
+    "description":"Im Bereich hygienischer Lebensmittelpumpen gelten Drücke ab ca. 16 bar als Hochdruckanwendungen. Bei den HYGHSPIN Schraubenspindelpumpen steht die Ausführung Double Flow für Hochdruckanwendungen bis 50 bar zur Verfügung.",
+    "image":""
+    },
+    {
+    "keyword":"HYGHSPIN",
+    "description":"HYGHSPIN ist der Markenname für hygienische Schraubenspindelpumpen des norddeutschen Herstellers Jung Process Systems GmbH. Die HYGHSPIN Baureihe (>Website/Produkte/HYGHSPIN) umfasst verschiedene Modelle in diversen Ausführungen und wird überwiegend in der Getränke- und Lebensmittelindustrie, der Feinchemie sowie in der pharmazeutischen Industrie eingesetzt.<br><br>Alle HYGHSPIN-Modelle werden in einem besonderen Fertigungsverfahren hergestellt, bei dem alle medienberührenden Teile aus Edelstahl-Vollmaterial gespant werden. Dies ergibt neben der totraumfreien Konstruktion ein einzigartiges Hygieneniveau. Weitere Besonderheit ist die Blockbauweise, die mobile Anwendungen zusätzlich vereinfacht.<br><br>HYGHSPIN Schraubenspindelpumpen zeichnen sich durch einen sehr hohen Viskositätsbereich aus. Sie dienen als Universalpumpen und sind auch für CIP- und SIP-Prozesse ohne zusätzliche Bypässe geeignet.",
+    "image":""
+    },
+    {
+    "keyword":"HYGHSPIN Hopper",
+    "description":"HYGHSPIN Hopper ist der Markenname für eine Schraubenspindelpumpe mit zum Eintritt hin verlängerten Förderschrauben. Bei diesem Pumpentyp erfolgen Zuführung, Förderung und Reinigung dank 3-in-1-Technologie in einer einzigen Komponente. Produkte mit einer Viskosität bis zu 1.000 Pas können problemlos transportiert werden. Die verlängerten Förderschrauben der HYGHSPIN Hopper können nicht-fließfähige Produkte unterhalb des Einlauftrichters wie ein Extruder einziehen und dem Pumpraum zuführen. Dies gewährleistet eine besonders schonende Förderung. Die HYGHSPIN Hopper ist in Blockbauweise oder mit freiem Wellenende erhältlich.",
+    "image":""
+    },
+    {
+    "keyword":"HNBR",
+    "description":"HNBR = Hydrierter Acrylnitrilbutadien-Kautschuk, Bezeichnung für bestimmte Elastomere",
+    "image":""
+    },
+    {
+    "keyword":"Hygienic Design",
+    "description":"Unter Hygienic Design (hygienisches Design) ist die reinigungsgerechte Gestaltung von Bauteilen, Komponenten und Produktionsanlagen für die Herstellung von Lebensmitteln zur Vermeidung von Kontamination zu verstehen. Hierfür werden u.a. Konstruktion, verwendete Materialien, Fertigungsverfahren und Verbindungstechniken untersucht und bewertet. <br><br>Ein bei Pumpen häufig genannter Aspekt zur Einhaltung der Hygienic Design-Kriterien ist die totraumfreie Konstruktion, bei der jegliche, nicht durch Reinigungsmittel erreichbare Räume vermieden werden.<br><br>Die Grundsätze des Hygienic Design bilden die Grundlage für die von der EHEDG auf Basis von Versuchen vergebene Zertifizierung für Ausrüstungen. ",
+    "image":""
+    },
+    {
+    "keyword":"Inline-Ausführung",
+    "description":"Inline bedeutet, dass die Pumpe über gegenüberliegende Stutzen ohne interne Umlenkung in die Produktionslinie integriert ist.",
+    "image":""
+    },
+    {
+    "keyword":"Kavitation",
+    "description":"Unter Kavitation versteht man die Entstehung und den dann folgenden plötzlichen Zerfall von Dampfblasen. Typisch ist das Phänomen für Pumpen, Schiffsschrauben oder Wasserturbinen. Die Dampfblasen bilden sich, wenn der lokale statische Druck unter den Verdampfungsdruck des Mediums sinkt. Dies kann bereits bei einer Temperatur um die 20 °C vorkommen. Die Dampfblasen gelangen durch den Pumpvorgang wieder in Bereiche mit höherem Druck und zerplatzen dort schlagartig. Dadurch entstehen Turbulenzen, sogenannte Microjets, und es kommt zu Beschädigungen und vorzeitigem Verschleiß der Pumpe.<br><br>Um Kavitation bei Pumpen zu vermeiden, sind die sorgfältige Ermittlung der erforderlichen NPSH-Werte und ein darauf abgestimmtes Anlagenlayout entscheidend.",
+    "image":""
+    },
+    {
+    "keyword":"Kontaktfrei",
+    "description":"Kontaktfrei bedeutet, dass benachbarte Bauteile sich nicht berühren. Es gibt bei HYGHSPIN Schraubenspindelpumpen weder eine Berührung zwischen den Spindeln, noch zwischen Spindeln und Pumpengehäuse.",
+    "image":""
+    },
+    {
+    "keyword":"Kontamination",
+    "description":"Unter Kontamination versteht man die Verunreinigung eines Produktes, beispielsweise mit Mikroorganismen oder Rückständen von Medien, die vorher in der Pumpe gefördert worden sind. Kontamination kann aber auch durch den kontinuierlichen Abrieb eines Bauteils verursacht werden.",
+    "image":""
+    },
+    {
+    "keyword":"Korrosion",
+    "description":"Korrosion bezeichnet die Zersetzung eines Stoffes durch äußere Einflüsse. Um Korrosion von Metallen durch Oxidation zu vermeiden, werden für hygienische Pumpen korrosionsbeständige Edelstähle eingesetzt.",
+    "image":""
+    },
+    {
+    "keyword":"Kreiskolbenpumpe",
+    "description":"Kreiskolbenpumpen gehören zur Gruppe der Verdrängerpumpen. Sie bestehen im Wesentlichen aus einem Gehäuse und zwei gegeneinander drehenden Kolben. Durch die Rotation der Kolben wird das Medium in eine Pumpkammer gefördert und gelangt von dort in die Rohrleitung.",
+    "image":""
+    },
+    {
+    "keyword":"Kupplung",
+    "description":"Über Kupplungen werden rotierende Wellen miteinander verbunden, beispielsweise zur Kraftübertragung an der Schnittstelle zwischen Pumpe und Motor. Es gibt eine Vielzahl verschiedener Kupplungen. Durch Magnetkupplung ist sogar eine berührungslose Übertragung möglich.<br><br>Die Mehrzahl der Kupplungen benötigt eine korrekte Ausrichtung. Ansonsten besteht das Risiko von Schäden an der Kupplung oder an der Lagerung der verbundenen Wellen. Um fehlerhaft ausgerichtete oder verspannte Kupplungen auszuschließen, werden HYGHSPIN Schraubenspindelpumpen in Blockbauweise angeboten. Spindeln und Motorwelle sind dabei durch Formschluss zueinander zentriert. Dadurch steigt die Betriebssicherheit. Gleichzeitig ist die Kupplung damit korrosionsgeschützt und die Pumpen sind von außen einfacher zu reinigen.",
+    "image":""
+    },
+    {
+    "keyword":"Lagerung",
+    "description":"Eine Lagerung ist ein Bauteil zur Führung von gegeneinander beweglichen Bauteilen. An Pumpen bezieht sich die Lagerung vor allem auf die Führung der Wellen.",
+    "image":""
+    },
+    {
+    "keyword":"Lippendichtungen",
+    "description":"Bei Lippendichtungen erfolgt die Abdichtung der Welle durch eine oder mehrere auf dem rotierenden Bauteil gleitenden Lippen. Sie werden für Anwendungen mit hohem Zuckeranteil wie beispielsweise Fruchtsaftkonzentrate verwendet, weil hier Standard Gleitringdichtungen weniger geeignet sind, da die Gleitflächen bei Stillstand der Pumpe leicht verkleben und so beim Wiederanfahren brechen können.<br><br>HYGHSPIN-Schraubenspindelpumpen können für diese Einsatzzwecke auch mit selbstschmierenden PTFE (Polytetrafluorethen) Lippendichtungen ausgestattet werden. Ein externes Spülsystem ist nicht erforderlich, so dass die Lippendichtungen insbesondere für mobile Pumpen von Vorteil sind.<br><br>Das einbaufertige Lippendichtungssystem ist einfach konstruiert, trockenlaufsicher und kostengünstiger als einfach- und doppeltwirkende Gleitringdichtungen.",
+    "image":""
+    },
+    {
+    "keyword":"Lunker",
+    "description":"Lunker sind Hohlräume, die beim Gießen von Metallen entstehen können. Bei der Bearbeitung von Bauteilen, die im Gussverfahren hergestellt wurden, kann es zur Bildung mikrofeiner Risse kommen, an denen sich Verunreinigungen festsetzen, die zu einer Kontamination des Produktes führen können. Um dies zu vermeiden, werden bei allen HYGHSPIN Schraubenspindelpumpen die medienberührenden Teile aus Edelstahl-Vollmaterial gespant. Dieses aufwändigere Fertigungsverfahren bietet ein Höchstmaß an Hygiene.",
+    "image":""
+    },
+    {
+    "keyword":"Massenträgheit",
+    "description":"Die Massenträgheit, auch Massenträgheitsmoment genannt, gibt den Widerstand eines Bauteils gegen die Veränderung der Drehbewegung um die eigene Achse an. Der Wert ist wichtig, da er bestimmt, wie gut sich die rotierenden Teile, bei Pumpen also die Pumpenrotatoren, beschleunigen und abbremsen lassen. Je kleiner die Massenträgheit, desto besser lassen sich die Teile beschleunigen.<br><br>Die Rotoren von HYGHSPIN Schraubenspindelpumpen haben im Vergleich zu den Förderelementen anderer Pumpenbauarten einen relativ kleinen Durchmesser. Die Massenträgheit ist dadurch gering. Diese Pumpen lassen sich deshalb hervorragend beschleunigen und abbremsen.",
+    "image":""
+    },
+    {
+    "keyword":"Medium",
+    "description":"Medium ist ein Sammelbegriff für das Fördergut, das durch die Pumpe transportiert wird. Medien unterscheiden sich insbesondere hinsichtlich ihrer Viskosität.",
+    "image":""
+    },
+    {
+    "keyword":"Microjets",
+    "description":"Als Microjets werden hochenergiereiche Ströme bezeichnet, die beim schlagartigen Zerfall von Dampfblasen in Folge von Druckunterschieden in Flüssigkeiten entstehen. Microjets entstehen in Verbindung mit Kavitation. Sie führen lokal zu sehr hohen Belastungen an betroffenen Bauteilen und sehr häufig zu Schädigungen wie Materialausbrüchen, sogenannte Pittings.",
+    "image":""
+    },
+    {
+    "keyword":"Motorwelle",
+    "description":"Die Motorwelle ist ein längliches Bauteil, das die vom Motor erzeugte Kraft – das Drehmoment – auf ein Maschinenteil überträgt und so in Rotation bringt. Für die Verbindung zum angetriebenen Bauteil wird in der Regel eine Kupplung eingesetzt. Die angetriebenen Maschinenteile können jedoch auch direkt auf der Motorwelle montiert werden, so dass keine Kupplung erforderlich ist. Dies ist bei einigen Pumpen und häufig bei Ventilatoren der Fall.",
+    "image":""
+    },
+    {
+    "keyword":"MTBF",
+    "description":"MTBF ist ein statischer Wert und bedeutet Mean Time Between Failure. Er gibt Aufschluss darüber, welche Standzeiten (Betriebszeiten) bis zum Ausfall einer Komponente durchschnittlich zu erwarten sind. Je größer der MTBF, desto geringer ist die Ausfallwahrscheinlichkeit einer Komponente. Die Verfügbarkeit einer Komponente ergibt sich aus dem MTBF und dem MTTR.",
+    "image":""
+    },
+    {
+    "keyword":"MTTR",
+    "description":"MTTR ist ein statischer Wert und bedeutet Mean Time To Repair. Er gibt Aufschluss darüber, wie lange die Reparatur einer Komponente durchschnittlich dauert. Mit der Angabe der MTTR lassen sich also Stillstandszeiten besser einplanen. Je kleiner der MTTR, desto schneller kann die Komponente instand gesetzt werden. Die Verfügbarkeit einer Komponente ergibt sich aus dem MTTR und dem MTBF.",
+    "image":""
+    },
+    {
+    "keyword":"Multiphasenförderung",
+    "description":"Unter einer Multiphasenförderung versteht man die Förderungen eines Gemisches, das aus mindestens zwei der drei Phasen (fest, flüssig, dampfförmig) besteht. HYGHSPIN Schraubenspindelpumpen können die besonderen Anforderungen der Multiphasenförderung hervorragend erfüllen, da sie aufgrund des breiten Viskositätsbereiches neben Feststoffen und Flüssigkeiten auch Dämpfe und Gase fördern können.",
+    "image":""
+    },
+    {
+    "keyword":"NPSH-Wert",
+    "description":"NPSH steht für Net Positive Suction Head und ist eine der wichtigsten Betriebsgrößen für Pumpen. Der NPSH-Wert gibt an, wie groß die Druckdifferenz zwischen dem Druck am Eintritt der Pumpe und dem Dampfdruck des Produktes ist. Dabei werden zwei NPSH-Werte betrachtet: NPSHR und NPSHP. <br><br>NPSHR gibt den von der Pumpe benötigten Druck an, NPSHP den von der Anlage bereitgestellten Druck. Je niedriger ein NPSHR-Wert einer Pumpe, desto geringer ist das Risiko von Kavitation. Man sollte daher immer die NPSH-Werte des Pumpenherstellers anfordern.<br><br>Parallel ist der NPSHP-Wert der Anlage zu ermitteln. Dieser muss größer sein als der NPSHR-Wert der eingesetzten Pumpe. Der Mindestabstand sollte 0,5 m betragen. Ist der NPSH-Wert der Anlage (P) kleiner als der der Pumpe (R), wird die Pumpe unweigerlich kavitieren und Schaden nehmen.",
+    "image":""
+    },
+    {
+    "keyword":"Pa·s",
+    "description":"Pa·s, auch Pas geschrieben, ist die Abkürzung für Pascalsekunde, eine Maßeinheit für dynamische Viskosität.",
+    "image":""
+    },
+    {
+    "keyword":"Pittings",
+    "description":"Pittings sind Materialausbrüche an Bauteilen und eine typische Folge von Kavitation. Dabei werden Materialpartikel durch Microjets aus dem Bauteil herausgebrochen.",
+    "image":""
+    },
+    {
+    "keyword":"Pulsation",
+    "description":"Pulsationen sind regelmäßige Druckschwankungen innerhalb einer Anlage. Oftmals werden Sie durch Verdrängerpumpen erzeugt. Sie ergeben sich durch die unterschiedlichen Betriebsphasen (Ansaugen, Verschieben, Ausstoßen) und den dadurch ungleichmäßigen Volumenstrom dieser Pumpen. Durch Pulsationsdämpfer können Pulsationen abgemildert werden. HYGHSPIN Schraubenspindelpumpen verursachen praktisch keine Pulsationen, da ein gleichmäßiger Volumenstrom in und aus der Pumpe vorliegt.",
+    "image":""
+    },
+    {
+    "keyword":"Pumpenausrichtung",
+    "description":"Unter der Pumpenausrichtung versteht man die Ausrichtung der Pumpe zur Anlage und über die Kupplung zum Motor hin. Ziel ist es, die Pumpe ohne Verspannungen in die Anlage einzubinden. Verspannungen können zu unzulässig hohen Belastungen der Pumpe führen, so dass diese Schaden nimmt.",
+    "image":""
+    },
+    {
+    "keyword":"Pumpenkennlinie",
+    "description":"Eine Pumpenkennlinie stellt das Verhältnis von Förderhöhe zu Fördermenge grafisch dar. Die Kennlinie wird über ein Prüfprogramm ermittelt und gibt Aufschluss über die Leistungsfähigkeit.",
+    "image":""
+    },
+    {
+    "keyword":"Pumpraum",
+    "description":"Im Pumpraum einer Pumpe findet der eigentliche Pumpvorgang statt. Unterschieden wird oftmals zwischen dem Saug-, dem Pump- und dem Druckraum einer Pumpe. Alle diese Räume befinden sich innerhalb der Pumpe.",
+    "image":""
+    },
+    {
+    "keyword":"Ra",
+    "description":"Ra ist das Kürzel für den Mittenrauwert, eine Messgröße für die Beschaffenheit einer Oberfläche. Der Ra-Wert gibt an, wie glatt eine Oberfläche ist. Je niedriger der Ra-Wert ist, desto feiner ist die Oberfläche. Dies erleichtert die Reinigung und verhindert Kontamination. <br><br> Hygienische Pumpen weisen im Normalfall Rauigkeiten unter 0,8 µm auf. Für besonders empfindliche Produkte, beispielsweise in der pharmazeutischen Industrie, werden sogar noch höhere Anforderungen gestellt. HYGHSPIN Schraubenspindelpumpen sind hierfür mit Rauigkeiten kleiner 0,4 µm möglich.",
+    "image":""
+    },
+    {
+    "keyword":"Rotierende Förderung",
+    "description":"Bei einer rotierenden Förderung dreht sich das Fördermedium mit den Rotoren oder Laufrädern in der Pumpe. Diese Form der Förderung ist weit verbreitet und findet sich in Kreisel-, Drehkolben-, Kreiskolben- und Sinuspumpen. Die Drehgeschwindigkeit von Laufrädern oder Rotoren ist entscheidend für die Geschwindigkeit, mit der das Produkt transportiert wird<br><br>Demgegenüber steht das Prinzip der axialen Förderung, wie es bei Kolbenpumpen oder Schraubenspindelpumpen vorliegt. Beim axialen Verschieben des Produktes ist die Produktgeschwindigkeit innerhalb der Pumpe deutlich geringer. Das Produkt wird dabei nicht gegen den Pumpraum geschleudert und weitaus schonender transportiert.",
+    "image":""
+    },
+    {
+    "keyword":"Saugkammer",
+    "description":"Die Saugkammer ist der Eintrittsbereich einer Pumpe. An diesen schließt sich der Pumpraum an, in dem das eigentliche Pumpen stattfindet.",
+    "image":""
+    },
+    {
+    "keyword":"Saugleistung",
+    "description":"Unter Saugleistung versteht man die Möglichkeiten einer Pumpe, Produkte auf der Eintrittsseite der Pumpe in die Höhe zu fördern. Kann die Pumpe eine nicht mit Flüssigkeit gefüllte Saugleitung eigenständig entlüften (evakuieren), so dass die Förderflüssigkeit in die Pumpe gelangt, spricht man von einer selbstansaugenden Pumpe.<br><br>Die Saugleistung einer Pumpe ist kein pauschaler Wert, sondern von dem Rahmenbedingungen abhängig. Sie wird von dem NPSH-Wert der Anlage und dem NPSH-Wert der Pumpe unter Betriebsbedingen bestimmt. Generell gilt, dass die Saugleistung mit sinkendem NPSH-Wert der Pumpe ansteigt.<br><br>HYGHSPIN Schraubenspindelpumpen verfügen über eine hohe Saugleistung von bis zu 9 m.",
+    "image":""
+    },
+    {
+    "keyword":"Saugseite",
+    "description":"Die Saugseite ist die Seite einer Pumpe, von der aus das Medium in die Pumpe eintritt.",
+    "image":""
+    },
+    {
+    "keyword":"Schraubenspindelpumpe",
+    "description":"Schraubenspindelpumpen gehören zu den Verdrängerpumpen. Ursprünglich wurden diese Pumpen primär für den Transport von Ölprodukten eingesetzt. Mittlerweile hat sich das Pumpprinzip aufgrund der vielen verfahrenstechnischen und hygienischen Vorteile nachhaltig in der Nahrungsmittel- und Getränkeherstellung sowie in Pharmazie, Kosmetik und Feinchemie etabliert.<br><br>Bei der zweispindeligen Ausführung, auch Twin Screw Pump genannt, drehen eine links- und eine rechtsgängige Förderschraube gegeneinander und verdrängen das Medium in axialer Richtung. Diese axiale Förderung ist besonders produktschonend, da das Medium hierbei weder geschleudert, noch, wie bei Kreisel- und Drehkolbenpumpen, umgelenkt wird. Es kommt nicht zu größeren mechanischen oder thermischen Belastungen des Produktes und die geringen Pulsationen schonen darüber hinaus die gesamte Produktionsanlage.<br><br>Hervorzuheben ist die hohe Saugleistung der Schraubenspindelpumpen, die mit niedrigen NPSH-Werten einhergeht und Kavitation entgegenwirkt. Schraubenspindelpumpen können einen sehr großen Volumenstrom- und Viskositätsbereich abdecken. Damit ist nicht nur die Förderung von niedrig- und hochviskosen Produkten – auch mit geringen Gasanteilen – mit ein und derselben Pumpe möglich, sondern auch die CIP-Reinigung kann mit derselben Pumpe durchgeführt werden. Das spart Platz und Geld, denn es muss keine zweite Pumpe für CIP und SIP installiert werden, was den Aufwand für Mess-, Regel- und Rohrleitungs- sowie Ventiltechnik und für Verkabelung verringert.<br><br>Schraubenspindelpumpen arbeiten sehr verschleißarm. Die berührungsfrei laufenden Spindeln sind verschleißfest ausgeführt, daher wird Abrieb und die damit verbundene Gefahr von Kontamination im Fördermedium gänzlich vermieden.<br><br>Unter dem Markennamen HYGHSPIN entwickelte Schraubenspindelpumpen erfüllen sehr hohe Qualitätsstandards. Sie sind nach den Regeln des Hygienic Design komplett aus Edelstahl gefertigt. In einem besonderen, einzigartigen Fertigungsverfahren werden alle medienberührenden Teile aus Edelstahl-Vollmaterial gespant, so dass höchste Hygieneanforderungen erfüllt werden. HYGHSPIN Schraubenspindelpumpen sind prädestiniert für anspruchsvolle Pumpaufgaben. Sie werden zum Beispiel zur Förderung von Schmelzkäse, Fondantmasse, zähfließendem Teig, Fleischbrät, Vollei, gefrorenem Orangensaftkonzentrat oder Hefekulturen eingesetzt. Im Bereich Körperpflege- und Pharmaprodukte sorgen HYGHSPIN Schraubenspindelpumpen dafür, dass Cremes, Zahnpasta, Körperlotionen und Medikamente in exzellenter Qualität zum Kunden gelangen.",
+    "image":""
+    },
+    {
+    "keyword":"Selbstansaugend",
+    "description":"Als selbstansaugend wird eine Pumpe bezeichnet, wenn sie in der Lage ist, das Fördermedium selbsttägig durch Evakuierung (Entlüften) der Saugleitung und dem damit verbundenen Aufbau eines Unterdruckes bis zur Pumpe hin emporzuheben. Im Gegensatz dazu müssen die Saugleitungen von normalansaugenden Pumpen immer mit dem Fördermedium gefüllt sein. Läuft die Saugleitung leer, ist eine normalsaugende Pumpe nicht in der Lage, das Medium wieder anzusaugen.",
+    "image":""
+    },
+    {
+    "keyword":"Selbstentleerung",
+    "description":"Die Selbstentleerung ist ein Konstruktionsmerkmal von Pumpen und typisch für Anwendungen mit hohem Hygienebedarf, wo Produktreste und Reinigungsmittel nicht in der Pumpe verbleiben sollen.<br><br>Bei vielen Pumpen erfolgt die Entleerung über einen zusätzlichen Anschluss, über den die Pumpe durch das Öffnen eines Ventils entleert wird. Bei HYGHSPIN Schraubenspindelpumpen ist kein zusätzlicher Entleerungs-Anschluss erforderlich. Sie sind standardmäßig selbstentleerend, da der axiale Anschluss am Deckel am tiefsten Punkt der Pumpe angeordnet ist und Produktreste hierüber aus der Pumpe abfließen können.",
+    "image":""
+    },
+    {
+    "keyword":"Semi-Cartridge Design",
+    "description":"Bezeichnung für die Bauform einer Gleitringdichtung. Abweichend zur Cartridge-Ausführung werden bei einem Semi-Cartridge Design nur die statischen Bauteile der Gleitringdichtung in einem Bauteil zusammengefasst. Die rotierenden Komponenten werden gesondert montiert. Eine Semi-Cartridge-Ausführung bietet gegenüber der reinen Cartridge-Variante Kostenvorteile. Bei HYGHSPIN Schraubenspindelpumpen ergeben sich außerdem Montagevorteile, deshalb werden hier nur Semi-Cartridge Gleitringdichtungen eingesetzt.",
+    "image":""
+    },
+    {
+    "keyword":"SIP-Reinigung",
+    "description":"SIP = Sterilize in Place; Sterilisierung von Bauteilen innerhalb einer Anlage durch Heißdampf oder Heißwasser mit einer Temperatur von 100 – 145 °C. Alle HYGHSPIN Schraubenspindelpumpen können ohne Demontage sowohl gereinigt als auch sterilisiert werden. Sie verfügen somit über eine SIP- sowie über eine CIP-Funktion.",
+    "image":""
+    },
+    {
+    "keyword":"Spalte",
+    "description":"Spalte sind enge Abstände zwischen zwei Bauteilen. Bei der Konstruktion von Pumpen für hygienische Anwendungen sind nicht durchspülte Spalte zu vermeiden, da es darin sonst zu Produktablagerungen und in der Folge zur Kontamination kommen kann.",
+    "image":""
+    },
+    {
+    "keyword":"Spaltverluste",
+    "description":"Unter Spaltverlusten versteht man den Leistungsverlust, der auftritt, wenn ein Teil eines bereits geförderten Mediums durch interne Spalte einer Pumpe von der Druckseite auf die Saugseite zurückfließt, also erneut gepumpt werden muss.<br><br>Spaltverluste treten bei HYGHSPIN Schraubenspindelpumpen verfahrensbedingt nur in sehr geringem Umfang auf.",
+    "image":""
+    },
+    {
+    "keyword":"Standzeit",
+    "description":"Unter Standzeit versteht man im Zusammenhang mit Bauteilen und Komponenten die Zeit, in der ein Element ohne Ausfall wegen Wartung oder Verschleiß betriebsbereit ist.<br><br>Steht eine Anlage still, beispielsweise wegen geplanter Wartungsarbeiten, spricht man von einer Stillstandszeit.",
+    "image":""
+    },
+    {
+    "keyword":"Totraumfreie Konstruktion",
+    "description":"Totraumfreie Konstruktionen sind frei von Stellen, in denen sich Schmutzansammlungen ablagern können, da dies zu einer Kontamination des Produktes führen würde. Die totraumfreie Konstruktion ist ein wesentliches Kriterium für das Hygienic Design.",
+    "image":""
+    },
+    {
+    "keyword":"Trägheitsmoment",
+    "description":"Das Trägheitsmoment gibt den Widerstand eines Körpers gegenüber der Drehbewegung um die eigene Achse an. Wie sich dieser Körper verhält, hängt davon ab, wie seine Masse verteilt ist, genauer: wie weit welche Masseanteile vom Drehpunkt entfernt sind. Dieser Abstand geht quadratisch in die Bemessung des Trägheitsmoments ein. Je weiter die Masse vom Drehpunkt entfernt ist desto größer ist das Trägheitsmoment. <br>Das Trägheitsmoment der Rotoren von HYGHSPIN Schraubenspindelpumpen ist aufgrund der geringen Durchmesser relativ gering. Daher lassen sich HYGHSPIN Schraubenspindelpumpen hervorragend beschleunigen und abbremsen. Zudem sind hohe Drehzahlen bis zu 4.000 min-1 erzielbar.",
+    "image":""
+    },
+    {
+    "keyword":"Trockenlaufsicherheit",
+    "description":"Trockenlaufsicherheit bei Pumpen liegt vor, wenn die Pumpe ohne Fördermedium (z.B. bei Ansaugvorgängen) betrieben kann, ohne dass dies zu Schäden an der Pumpe führt. Mit doppeltwirkenden Gleitring- oder mit Lippendichtungen sind HYGHSPIN Schraubenspindelpumpen trockenlaufsicher. Die Lippendichtungen sind selbstschmierend, so dass ein Trockenlauf unproblematisch ist. Bei einer doppeltwirkenden Gleitringdichtung wird durch Spülung ein Trockenlauf der Gleitflächen verhindert.",
+    "image":""
+    },
+    {
+    "keyword":"Turbulenzen",
+    "description":"Turbulenzen sind lokale, meist chaotische Strömungsverhältnisse, beispielsweise Wirbel. Innerhalb einer Turbulenz kann die lokale Strömungsgeschwindigkeit deutlich höher als die durchschnittliche Strömungsgeschwindigkeit sein. Hierdurch sinkt lokal der statische Druck, so dass Dampfblasen entstehen können. Turbulenzen sind daher oftmals der Ausgangspunkt für Kavitation.",
+    "image":""
+    },
+    {
+    "keyword":"V2A",
+    "description":"Siehe Edelstahl",
+    "image":""
+    },
+    {
+    "keyword":"V4A",
+    "description":"Siehe Edelstahl",
+    "image":""
+    },
+    {
+    "keyword":"Verdrängerpumpen",
+    "description":"Verdrängerpumpen arbeiten nach dem sogenannten volumetrischen Prinzip: Ein definiertes Volumen, auch Verdrängung genannt, wird in der Pumpe eingeschlossen, verschoben und mit erhöhtem Druck ausgestoßen. Die Druckerhöhung erfolgt dabei abrupt beim Ausstoßen des Produktes.<br> Im Idealfall wird das verschobene Volumen weder durch seine Viskosität noch durch Gegendruck beeinflusst, in der Realität kommt es jedoch häufig zu Spaltverlusten.<br><br>Das klassische Beispiel einer Verdrängerpumpe ist die Kolbenpumpe. Andere bekannte Verdrängerpumpen sind Drehkolbenpumpen, Exzenterschneckenpumpen, Kreiskolbenpumpen und Schraubenspindelpumpen.",
+    "image":""
+    },
+    {
+    "keyword":"Verdrängung",
+    "description":"Die Verdrängung ist der theoretische Volumenstrom einer Verdrängerpumpe ohne Berücksichtigung von Spaltverlusten. Der reale Volumenstrom der Pumpe ergibt sich aus der Verdrängung abzüglich der Spaltverluste.",
+    "image":""
+    },
+    {
+    "keyword":"Viskosität",
+    "description":"Viskosität beschreibt die Fließfähigkeit eines Mediums, genauer: den Widerstand eines Mediums gegen Scherung (Schubverzerrung). Je höher die Viskosität, desto zäher ist das Medium und desto schlechter ist sein Fließverhalten. Die Viskosität wird oftmals in „mPas, „cP“ oder„mm²/s“. angegeben.<br><br>Wasser mit 1 mPas und Säfte mit ca. 5 mPas zählen zu den niedrigviskosen Medien. Beispiele für hochviskose Medien sind Butter oder Silikon mit Viskositäten oberhalb von 100.000 mPas. Solche Produkte fließen nicht mehr selbständig ein, sondern müssen mit Druck oder über eine Zuführeinrichtung in die Pumpe geleitet werden.<br><br>Die Viskosität hat großen Einfluss auf das Strömungsverhalten von Produkten und damit auf das Förderverhalten von Pumpen. Mit steigender Viskosität nehmen die Druckverluste in der Leitung stark zu. Dieser Einfluss darf nicht unterschätzt werden. Kritisch sind insbesondere die Saugleitungen von Pumpen, da hier auftretende Druckverluste zu Problemen durch Kavitation führen können. Erschwerend kommt hinzu, dass die NPSH-Werte mit der Viskosität des Fördermediums ansteigen.<br><br>Für einen möglichst flexiblen Einsatz einer Pumpe ist ein großer Viskositätsbereich entscheidend damit möglichst viele Medien unterschiedlicher Viskosität – am besten inklusive der Flüssigkeit für die CIP-Reinigung – problemlos mit nur einer Pumpe gefördert werden können.<br><br>HYGHSPIN Schraubenspindelpumpen verfügen alle über einen breiten Viskositätsbereich und sind daher auch gleichzeitig für CIP- und SIP-Prozesse nutzbar. Zudem sind die Anforderungen an die NPSH-Werte im Vergleich zu anderen Pumpenbauarten geringer. Für spezielle Anforderungen steht darüber hinaus mit der HYGHSPIN Hopper eine Pumpe zur Verfügung, die dank 3-in-1-Technologie hochviskose Produkte ohne zusätzliche Zuführung einziehen kann.",
+    "image":""
+    },
+    {
+    "keyword":"Volumenstrom",
+    "description":"Volumenstrom bezeichnet die Menge eines Mediums, die in einer bestimmten Zeit durch einen bestimmten Querschnitt, beispielsweise in einer Rohrleitung, gefördert wird. HYGHSPIN Schraubenspindelpumpen verfügen über einen breiten Drehzahlbereich, so dass es über die Regelung der Drehzahl möglich ist, sowohl kleine wie große Volumenströme mit einer Pumpe zu erzielen.",
+    "image":""
+    },
+    {
+    "keyword":"Volumetrischer Wirkungsgrad",
+    "description":"Der volumetrische Wirkungsgrad einer Verdrängerpumpe beschreibt das Verhältnis zwischen der theoretischen Verdrängung und dem realen Volumenstrom durch die Pumpe in Prozent. Je größer der volumetrische Wirkungsgrad, desto effektiver arbeitet die Pumpe. Der Gesamtwirkungsgrad der Pumpe ist aufgrund von Reibungsverlusten kleiner als der volumetrische Wirkungsgrad.",
+    "image":""
+    },
+    {
+    "keyword":"Wartung",
+    "description":"Unter Wartung versteht man die Pflege und Instandhaltung von Anlagen, Maschinen und Komponenten. Wie aufwändig die spätere Wartung eines Produktes ist, entscheidet häufig schon ihre Konstruktion.<br><br>HYGHSPIN Schraubenspindelpumpen werden in der als besonders wartungsfreundlich geltenden Blockbauweise angeboten.",
+    "image":""
+    },
+    {
+    "keyword":"Wellendichtungen",
+    "description":"Die Wellendichtung ist die Abdichtung einer rotierenden Welle an der Durchführung durch eine statische Gehäusekomponente. Wellendichtungen dichten also ein rotierendes Bauteil (die Welle) gegenüber einem stillstehenden Bauteil (das Gehäuse) ab und verhindern damit Leckagen, sowohl aus der Pumpe heraus, wie auch in die Pumpe hinein. Wellendichtungen sind ein typisches Maschinenbauteil. Es gibt eine große Anzahl von Ausführungen, beispielsweise Wellendichtringe, Lippendichtungen, Stopfbuchsen und Gleitringdichtungen.",
+    "image":""
+    },
+    {
+    "keyword":"Wellenende",
+    "description":"Vom Wellendende aus wird das sogenannte Drehmoment, also die Kraft, auf ein anderes Bauteil übertragen. Oftmals wird hierzu eine Kupplung eingesetzt. Es ist aber auch möglich, das andere Bauteil, z.B. ein Pumpen- oder Lüfterlaufrad, direkt auf das Wellenende zu montieren. Oftmals ergibt sich ein Wellenstummel. In diesem Falle spricht man von einem freien Wellenende.",
+    "image":""
+    },
+    {
+    "keyword":"Wellenkupplung",
+    "description":"Siehe Kupplung",
+    "image":""
+    },
+    {
+    "keyword":"Wirkungsgrad",
+    "description":"Der Wirkungsgrad einer Pumpe gibt das Verhältnis zwischen der Förderleistung und dem mechanischen Leistungsbedarf der Pumpe, also der aufgenommenen Energie, an. Er wird in Prozentpunkten angegeben. Der Wirkungsgrad kann nie 100% erreichen, da es keine verlustfrei arbeitenden Maschinen gibt.",
+    "image":""
+    },
+    {
+    "keyword":"Zuführung",
+    "description":"Unter Zuführung versteht man, wie das Medium in die Pumpe gelangt, beispielsweise über eine Rohrleitung oder durch einen Trichter.",
+    "image":""
+    },
+    {
+    "keyword":"Zulaufhöhe",
+    "description":"Die Zulaufhöhe ist der Höhenunterschied zwischen dem Ursprung des Fördermediums und dem Einlaufstutzen der Pumpe. Der Ursprung des Fördermediums liegt dabei oberhalb der Pumpe. Sollte der Ursprung unterhalb der Pumpe liegen, so spricht man von einer Saughöhe. Die Zulaufhöhe ist keinesfalls mit dem NPSH-Wert der Anlage zu verwechseln. Die Zulaufhöhe geht zwar in die Bemessung des anlagenseitigen NPSH-Wertes ein, ist aber nur eine von mehreren Einflussgrößen.",
+    "image":""
+    }
+]
