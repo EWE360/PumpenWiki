@@ -1,444 +1,212 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap" rel="stylesheet"> 
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" defer></script>
-    <script src="node_modules/isotope-layout/dist/isotope.pkgd.min.js" defer></script>
-    <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js" defer></script>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+      defer
+    ></script>
+    <script
+      src="node_modules/isotope-layout/dist/isotope.pkgd.min.js"
+      defer
+    ></script>
+    <script
+      src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"
+      defer
+    ></script>
     <script src="main.js" defer></script>
     <title>Pumpen Kompendium</title>
-</head>
-<body>
+  </head>
+  <body>
     <div class="content-wrapper">
-        <input type="text" class="search" placeholder="Suchbegriff">
-        <div class="filter">
+      <h1 class="pumpen-wiki-head">Pumpen-Wiki</h1>
+      <p class="pumpen-wiki-description">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero non illo
+        aliquid officiis sit tempora corrupti sed? Eius, dignissimos consectetur
+        aliquam reprehenderit error hic animi odit, voluptas facere sed
+        architecto?
+      </p>
+      <button class="reset">Alle anzeigen</button>
+      <input type="text" class="search" placeholder="Suchbegriff" />
+      <div class="filter"></div>
+      <hr />
+      <div class="grid">
+        <div class="category cat-3" data-category="3">
+          <div class="title">3</div>
+          <div class="content">3-in-1-Lösung</div>
+          <div class="content">3-A Zertifikat</div>
         </div>
-        <hr>
-        <div class="grid">
-            <div class="category cat-3" data-category="3">
-                <div class="title">
-                    3
-                </div>
-                <div class="content">
-                    3-in-1-Lösung
-                </div>
-                <div class="content">
-                    3-A Zertifikat
-                </div>
-            </div>
-            <div class="category cat-a" data-category="a">
-                <div class="title">
-                    A
-                </div>
-                <div class="content">
-                    Abrasive Medien
-                </div>
-                <div class="content">
-                    Anlagenlayout
-                </div>
-                <div class="content">
-                    ATEX
-                </div>
-                <div class="content">
-                    Austrittsstutzen
-                </div>
-                <div class="content">
-                    Axiale Förderung
-                </div>
-            </div>
-            <div class="category cat-b" data-category="b">
-                <div class="title">
-                    B
-                </div>
-                <div class="content">
-                    Betriebsbereich
-                </div>
-                <div class="content">
-                    Betriebssicherheit
-                </div>
-                <div class="content">
-                    Blockbauweise
-                </div>
-                <div class="content">
-                    Bypass
-                </div>
-            </div>
-            <div class="category cat-c" data-category="c">
-                <div class="title">
-                    C
-                </div>
-                <div class="content">
-                    Cartridge-Bauweise
-                </div>
-                <div class="content">
-                    CIP-Reinigung
-                </div>
-            </div>
-            <div class="category cat-d" data-category="d">
-                <div class="title">
-                    D
-                </div>
-                <div class="content">
-                    Dampfblasen
-                </div>
-                <div class="content">
-                    Dampfdruck
-                </div>
-                <div class="content">
-                    Dampfdruckkurve
-                </div>
-                <div class="content">
-                    Differenzdruck
-                </div>
-                <div class="content">
-                    Diffusionshärtung
-                </div>
-                <div class="content">
-                    Doppelflutig
-                </div>
-                <div class="content">
-                    Doppelspindel
-                </div>
-                <div class="content">
-                    Double Flow
-                </div>
-                <div class="content">
-                    Drehzahlbereich
-                </div>
-                <div class="content">
-                    Druckseite
-                </div>
-                <div class="content">
-                    Druckstoß
-                </div>
-            </div>
-            <div class="category cat-e" data-category="e">
-                <div class="title">
-                    E
-                </div>
-                <div class="content">
-                    Edelstahl
-                </div>
-                <div class="content">
-                    EHEDG
-                </div>
-                <div class="content">
-                    Einlauftrichter
-                </div>
-                <div class="content">
-                    Eintrittsstutzen
-                </div>
-                <div class="content">
-                    Elastomer
-                </div>
-                <div class="content">
-                    Extruderfunktion
-                </div>
-                <div class="content">
-                    Exzenterschneckenpumpe
-                </div>
-            </div>
-            <div class="category cat-f" data-category="f">
-                <div class="title">
-                    F
-                </div>
-                <div class="content">
-                    FDA-Zulassung
-                </div>
-                <div class="content">
-                    Feststoffgröße
-                </div>
-                <div class="content">
-                    Flankenspiel
-                </div>
-                <div class="content">
-                    Fließfähigkeit
-                </div>
-                <div class="content">
-                    Fördergeschwindigkeit
-                </div>
-                <div class="content">
-                    Förderhöhe
-                </div>
-                <div class="content">
-                    Fördermenge
-                </div>
-                <div class="content">
-                    Förderschrauben
-                </div>
-                <div class="content">
-                    Fördertemperatur
-                </div>
-                <div class="content">
-                    Förderverhalten
-                </div>
-                <div class="content">
-                    Formschluss
-                </div>
-            </div>
-            <div class="category cat-g" data-category="g">
-                <div class="title">
-                    G
-                </div>
-                <div class="content">
-                    Gleitringdichtung
-                </div>
-                <div class="content">
-                    Gussbauteile
-                </div>
-            </div>
-            <div class="category cat-h" data-category="h">
-                <div class="title">
-                    H
-                </div>
-                <div class="content">
-                    Hastelloy
-                </div>
-                <div class="content">
-                    Hochdruckanwendung
-                </div>
-                <div class="content">
-                    HYGHSPIN
-                </div>
-                <div class="content">
-                    HYGHSPIN Hopper
-                </div>
-                <div class="content">
-                    HNBR
-                </div>
-                <div class="content">
-                    Hygienic Design
-                </div>
-            </div>
-            <div class="category cat-i" data-category="i">
-                <div class="title">
-                    I
-                </div>
-                <div class="content">
-                    Inline-Ausführung
-                </div>
-            </div>
-            <div class="category cat-k" data-category="k">
-                <div class="title">
-                    K
-                </div>
-                <div class="content">
-                    Kontaktfrei
-                </div>
-                <div class="content">
-                    Kontamination
-                </div>
-                <div class="content">
-                    Korrosion
-                </div>
-                <div class="content">
-                    Kreiskolbenpumpe
-                </div>
-                <div class="content">
-                    Kupplung
-                </div>
-            </div>
-            <div class="category cat-l" data-category="l">
-                <div class="title">
-                    L
-                </div>
-                <div class="content">
-                    Lagerung
-                </div>
-                <div class="content">
-                    Lippendichtungen
-                </div>
-                <div class="content">
-                    Lunker
-                </div>
-            </div>
-            <div class="category cat-m" data-category="m">
-                <div class="title">
-                    M
-                </div>
-                <div class="content">
-                    Massenträgheit
-                </div>
-                <div class="content">
-                    Medium
-                </div>
-                <div class="content">
-                    Microjets
-                </div>
-                <div class="content">
-                    Motorwelle
-                </div>
-                <div class="content">
-                    MTBF
-                </div>
-                <div class="content">
-                    MTTR
-                </div>
-                <div class="content">
-                    Multiphasenförderung
-                </div>
-            </div>
-            <div class="category cat-n" data-category="n">
-                <div class="title">
-                    N
-                </div>
-                <div class="content">
-                    NPSH-Wert
-                </div>
-            </div>
-            <div class="category cat-p" data-category="p">
-                <div class="title">
-                    P
-                </div>
-                <div class="content">
-                    Pas
-                </div>
-                <div class="content">
-                    Pittings
-                </div>
-                <div class="content">
-                    Pulsation
-                </div>
-                <div class="content">
-                    Pumpenausrichtung
-                </div>
-                <div class="content">
-                    Pumpenkennlinie
-                </div>
-                <div class="content">
-                    Pumpraum
-                </div>
-            </div>
-            <div class="category cat-r" data-category="r">
-                <div class="title">
-                    R
-                </div>
-                <div class="content">
-                    Ra
-                </div>
-                <div class="content">
-                    Rotierende Förderung
-                </div>
-            </div>
-            <div class="category cat-s" data-category="s">
-                <div class="title">
-                    S
-                </div>
-                <div class="content">
-                    Saugkammer
-                </div>
-                <div class="content">
-                    Saugleistung
-                </div>
-                <div class="content">
-                    Saugseite
-                </div>
-                <div class="content">
-                    Schraubenspindelpumpe
-                </div>
-                <div class="content">
-                    Selbstansaugend
-                </div>
-                <div class="content">
-                    Selbstentleerung
-                </div>
-                <div class="content">
-                    Semi-Cartridge Design
-                </div>
-                <div class="content">
-                    SIP-Reinigung
-                </div>
-                <div class="content">
-                    Spalte
-                </div>
-                <div class="content">
-                    Spaltverluste
-                </div>
-                <div class="content">
-                    Standzeit
-                </div>
-            </div>
-            <div class="category cat-t" data-category="t">
-                <div class="title">
-                    T
-                </div>
-                <div class="content">
-                    Totraumfreie Konstruktion
-                </div>
-                <div class="content">
-                    Trägheitsmoment
-                </div>
-                <div class="content">
-                    Trockenlaufsicherheit
-                </div>
-                <div class="content">
-                    Turbulenzen
-                </div>
-            </div>
-            <div class="category cat-v" data-category="v">
-                <div class="title">
-                    V
-                </div>
-                <div class="content">
-                    V2A
-                </div>
-                <div class="content">
-                    V4A
-                </div>
-                <div class="content">
-                    Verdrängerpumpen
-                </div>
-                <div class="content">
-                    Verdrängung
-                </div>
-                <div class="content">
-                    Viskosität
-                </div>
-                <div class="content">
-                    Volumenstrom
-                </div>
-                <div class="content">
-                    Volumetrischer Wirkungsgrad
-                </div>
-            </div>
-            <div class="category cat-w" data-category="w">
-                <div class="title">
-                    W
-                </div>
-                <div class="content">
-                    Wartung
-                </div>
-                <div class="content">
-                    Wellendichtungen
-                </div>
-                <div class="content">
-                    Wellenende
-                </div>
-                <div class="content">
-                    Wellenkupplung
-                </div>
-                <div class="content">
-                    Wirkungsgrad
-                </div>
-            </div>
-            <div class="category cat-z" data-category="z">
-                <div class="title">
-                    Z
-                </div>
-                <div class="content">
-                    Zuführung
-                </div>
-                <div class="content">
-                    Zulaufhöhe
-                </div>
-            </div>
+        <div class="category cat-a" data-category="a">
+          <div class="title">A</div>
+          <div class="content">Abrasive Medien</div>
+          <div class="content">Anlagenlayout</div>
+          <div class="content">ATEX</div>
+          <div class="content">Austrittsstutzen</div>
+          <div class="content">Axiale Förderung</div>
         </div>
+        <div class="category cat-b" data-category="b">
+          <div class="title">B</div>
+          <div class="content">Betriebsbereich</div>
+          <div class="content">Betriebssicherheit</div>
+          <div class="content">Blockbauweise</div>
+          <div class="content">Bypass</div>
+        </div>
+        <div class="category cat-c" data-category="c">
+          <div class="title">C</div>
+          <div class="content">Cartridge-Bauweise</div>
+          <div class="content">CIP-Reinigung</div>
+        </div>
+        <div class="category cat-d" data-category="d">
+          <div class="title">D</div>
+          <div class="content">Dampfblasen</div>
+          <div class="content">Dampfdruck</div>
+          <div class="content">Dampfdruckkurve</div>
+          <div class="content">Differenzdruck</div>
+          <div class="content">Diffusionshärtung</div>
+          <div class="content">Doppelflutig</div>
+          <div class="content">Doppelspindel</div>
+          <div class="content">Double Flow</div>
+          <div class="content">Drehzahlbereich</div>
+          <div class="content">Druckseite</div>
+          <div class="content">Druckstoß</div>
+        </div>
+        <div class="category cat-e" data-category="e">
+          <div class="title">E</div>
+          <div class="content">Edelstahl</div>
+          <div class="content">EHEDG</div>
+          <div class="content">Einlauftrichter</div>
+          <div class="content">Eintrittsstutzen</div>
+          <div class="content">Elastomer</div>
+          <div class="content">Extruderfunktion</div>
+          <div class="content">Exzenterschneckenpumpe</div>
+        </div>
+        <div class="category cat-f" data-category="f">
+          <div class="title">F</div>
+          <div class="content">FDA-Zulassung</div>
+          <div class="content">Feststoffgröße</div>
+          <div class="content">Flankenspiel</div>
+          <div class="content">Fließfähigkeit</div>
+          <div class="content">Fördergeschwindigkeit</div>
+          <div class="content">Förderhöhe</div>
+          <div class="content">Fördermenge</div>
+          <div class="content">Förderschrauben</div>
+          <div class="content">Fördertemperatur</div>
+          <div class="content">Förderverhalten</div>
+          <div class="content">Formschluss</div>
+        </div>
+        <div class="category cat-g" data-category="g">
+          <div class="title">G</div>
+          <div class="content">Gleitringdichtung</div>
+          <div class="content">Gussbauteile</div>
+        </div>
+        <div class="category cat-h" data-category="h">
+          <div class="title">H</div>
+          <div class="content">Hastelloy</div>
+          <div class="content">Hochdruckanwendung</div>
+          <div class="content">HYGHSPIN</div>
+          <div class="content">HYGHSPIN Hopper</div>
+          <div class="content">HNBR</div>
+          <div class="content">Hygienic Design</div>
+        </div>
+        <div class="category cat-i" data-category="i">
+          <div class="title">I</div>
+          <div class="content">Inline-Ausführung</div>
+        </div>
+        <div class="category cat-k" data-category="k">
+          <div class="title">K</div>
+          <div class="content">Kontaktfrei</div>
+          <div class="content">Kontamination</div>
+          <div class="content">Korrosion</div>
+          <div class="content">Kreiskolbenpumpe</div>
+          <div class="content">Kupplung</div>
+        </div>
+        <div class="category cat-l" data-category="l">
+          <div class="title">L</div>
+          <div class="content">Lagerung</div>
+          <div class="content">Lippendichtungen</div>
+          <div class="content">Lunker</div>
+        </div>
+        <div class="category cat-m" data-category="m">
+          <div class="title">M</div>
+          <div class="content">Massenträgheit</div>
+          <div class="content">Medium</div>
+          <div class="content">Microjets</div>
+          <div class="content">Motorwelle</div>
+          <div class="content">MTBF</div>
+          <div class="content">MTTR</div>
+          <div class="content">Multiphasenförderung</div>
+        </div>
+        <div class="category cat-n" data-category="n">
+          <div class="title">N</div>
+          <div class="content">NPSH-Wert</div>
+        </div>
+        <div class="category cat-p" data-category="p">
+          <div class="title">P</div>
+          <div class="content">Pas</div>
+          <div class="content">Pittings</div>
+          <div class="content">Pulsation</div>
+          <div class="content">Pumpenausrichtung</div>
+          <div class="content">Pumpenkennlinie</div>
+          <div class="content">Pumpraum</div>
+        </div>
+        <div class="category cat-r" data-category="r">
+          <div class="title">R</div>
+          <div class="content">Ra</div>
+          <div class="content">Rotierende Förderung</div>
+        </div>
+        <div class="category cat-s" data-category="s">
+          <div class="title">S</div>
+          <div class="content">Saugkammer</div>
+          <div class="content">Saugleistung</div>
+          <div class="content">Saugseite</div>
+          <div class="content">Schraubenspindelpumpe</div>
+          <div class="content">Selbstansaugend</div>
+          <div class="content">Selbstentleerung</div>
+          <div class="content">Semi-Cartridge Design</div>
+          <div class="content">SIP-Reinigung</div>
+          <div class="content">Spalte</div>
+          <div class="content">Spaltverluste</div>
+          <div class="content">Standzeit</div>
+        </div>
+        <div class="category cat-t" data-category="t">
+          <div class="title">T</div>
+          <div class="content">Totraumfreie Konstruktion</div>
+          <div class="content">Trägheitsmoment</div>
+          <div class="content">Trockenlaufsicherheit</div>
+          <div class="content">Turbulenzen</div>
+        </div>
+        <div class="category cat-v" data-category="v">
+          <div class="title">V</div>
+          <div class="content">V2A</div>
+          <div class="content">V4A</div>
+          <div class="content">Verdrängerpumpen</div>
+          <div class="content">Verdrängung</div>
+          <div class="content">Viskosität</div>
+          <div class="content">Volumenstrom</div>
+          <div class="content">Volumetrischer Wirkungsgrad</div>
+        </div>
+        <div class="category cat-w" data-category="w">
+          <div class="title">W</div>
+          <div class="content">Wartung</div>
+          <div class="content">Wellendichtungen</div>
+          <div class="content">Wellenende</div>
+          <div class="content">Wellenkupplung</div>
+          <div class="content">Wirkungsgrad</div>
+        </div>
+        <div class="category cat-z" data-category="z">
+          <div class="title">Z</div>
+          <div class="content">Zuführung</div>
+          <div class="content">Zulaufhöhe</div>
+        </div>
+      </div>
     </div>
-
-</body>
+  </body>
 </html>

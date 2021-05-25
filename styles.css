@@ -1,96 +1,116 @@
 * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 :root {
-    --main-font: Helvetica, sans-serif;
-    --characterBar-font: 'Roboto Condensed', sans-serif;
-
+  --main-font: Helvetica, sans-serif;
+  --characterBar-font: "Roboto Condensed", sans-serif;
 }
 
 .content-wrapper {
-    width: 35vw;
-    margin-left: 100px;
+  width: 35vw;
+  margin-left: 100px;
+  padding-top: 20px;
+}
+
+.content-wrapper .reset {
+  margin-top: 20px;
+  width: 100px;
+  height: 25px;
+  background: #005ea8;
+  color: white;
+  font-family: var(--main-font);
+  border: none;
+  border-radius: 2px;
+}
+
+.pumpen-wiki-head {
+  font-family: var(--characterBar-font);
+  color: #005ea8;
+}
+
+.pumpen-wiki-description {
+  font-family: var(--main-font);
 }
 
 .search {
-    width: 100%;
-    height: 28px;
-    margin: 50px 0 10px 0;
-    padding: 0 10px;
-    border: 1px solid rgb(209, 204, 204);
+  width: 100%;
+  height: 28px;
+  margin: 10px 0 10px 0;
+  padding: 0 10px;
+  border: 1px solid rgb(209, 204, 204);
 }
 
 .search::placeholder {
-    font-family: var(--main-font);
-    font-size: 11px;
+  font-family: var(--main-font);
+  font-size: 11px;
 }
 
 .filter {
-    display: flex;
-    align-items: center;
-    width: 100%;
-    height: 25px;
-    margin-bottom: 10px;
-    font-family: var(--characterBar-font);
-    font-size: 14px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 25px;
+  margin-bottom: 10px;
+  font-family: var(--characterBar-font);
+  font-size: 14px;
 }
 
 .filter span {
-    margin: 0 14.5px 0 0;
+  margin: 0 14.5px 0 0;
 }
 
 .filter span:hover {
-    font-size: 18px;
-    font-weight: bold;
-    color: blue;
-    cursor: pointer;
+  font-size: 18px;
+  font-weight: bold;
+  color: #005ea8;
+  cursor: pointer;
 }
 
 hr {
-    width: 100%;
-    margin-bottom: 10px;
-    border-top: 2px dotted lightblue;
-    border-bottom: none;
+  width: 100%;
+  margin-bottom: 10px;
+  border-top: 2px dotted lightblue;
+  border-bottom: none;
 }
 
 .grid {
-    display: flex;
-    flex-direction: column;
-    align-content: space-between;
-    flex-wrap: wrap;
-    width: 100%;
-    height: 120vh;
-    font-family: var(--main-font);
-    font-size: 11px;
-
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  flex-wrap: wrap;
+  width: 100%;
+  height: 120vh;
+  font-family: var(--main-font);
+  font-size: 11px;
 }
 
 /* .category {
 } */
 
-.content, .title {
-    display: flex;
-    align-items: center;
-    width: 170px;
-    height: 20px;
-    padding-left: 5px;
+.content,
+.title {
+  display: flex;
+  align-items: center;
+  width: 170px;
+  height: 20px;
+  padding-left: 5px;
 }
 
 .title {
-    margin-bottom: 3px;
-    font-size: 14px;
+  margin-bottom: 3px;
+  font-size: 14px;
 }
 
 .content {
-    margin-bottom: 2px;
-    background: #dddede;
+  margin-bottom: 2px;
+  background: #dddede;
 }
 
 .active {
-    font-size: 18px;
-    font-weight: bold;
-    color: blue;
+  font-size: 18px;
+  font-weight: bold;
+  color: #005ea8;
 }
